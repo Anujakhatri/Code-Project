@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # Safely load your actual API key from environment
-GOOGLE_API_KEY = os.getenv("AIzaSyCuJiRvgOOYwT8-fhucbEBzTuArrB9h2Bs")  # Fix: load key by variable name, not raw value
+GOOGLE_API_KEY = os.getenv("Your Api Key")  # Fix: load key by variable name, not raw value
 gen_ai.configure(api_key=GOOGLE_API_KEY)
 model = gen_ai.GenerativeModel('gemini-pro')
 

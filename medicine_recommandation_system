@@ -1,0 +1,11 @@
+medicine_recommandation_project
+
+Data Handling: You successfully read and explored your dataset using pandas.
+
+Label Encoding: Proper use of LabelEncoder to convert categorical prognostic data.
+
+Model Comparison: Making good use of a dictionary and a loop to train and evaluate various models.
+
+Pickle Usage: Save your trained model for later usage.
+
+Single Predictions: Exhibited practical prediction testing on individual rows.

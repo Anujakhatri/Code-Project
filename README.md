@@ -1,9 +1,9 @@
 # Code-Project
-#day1 of learning new challenge
+Self Learning Project to rise my problem solving abilitites!
 
-Tic Tac Toe - Console Game in Python
-Features
-Two-player mode: 'X' and 'O' take turns.
+1.Tic Tac Toe - Console Game in Python
+  Features
+  Two-player mode: 'X' and 'O' take turns.
 
   Displays the current state of the board after every move.
 
@@ -20,3 +20,5 @@ Two-player mode: 'X' and 'O' take turns.
   The function checkWin() evaluates all possible win conditions.
 
   The main loop alternates between the two players until a win condition is met.
+
+2.

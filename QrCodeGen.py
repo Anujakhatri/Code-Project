@@ -1,3 +1,5 @@
+#generate a Qr code of my linkedin profile
+
 from readline import backend
 
 import qrcode
